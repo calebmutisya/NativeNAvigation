@@ -60,5 +60,3 @@ npm install @react-navigation/elements --legacy-peer-deps
 By following these steps, your project will be set up with Expo and React Navigation. You can now start building your app! 🚀
 
 --- 
-
-This version is better suited for a README file as it is formatted using Markdown conventions, making it easy to read and copy commands. Let me know if you'd like further changes!
