@@ -9,7 +9,7 @@ Follow the steps below to set up a React Native project using Expo, without Type
 
 ## Step 1: Create an Expo Project (Without TypeScript)
 
-Run the following command to create a new Expo project:
+Run the following command to create a new Expo project inside an alraedy existing empty folder/repo with Project Name:
 
 ```bash
 npx create-expo-app@latest ./ --template blank
